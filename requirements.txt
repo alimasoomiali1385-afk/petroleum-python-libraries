@@ -1,0 +1,67 @@
+# ==========================================
+
+# Python Libraries for Petroleum Engineering
+
+# Usage: pip install -r requirements.txt
+
+# ==========================================
+
+
+
+# --- 1. Petrophysics & Well Logging ---
+
+lasio
+
+welly
+
+dlisio
+
+petropy
+
+striplog
+
+
+
+# --- 2. Reservoir Engineering & PVT ---
+
+pyrestoolbox
+
+resdata
+
+fluids
+
+thermo
+
+
+
+# --- 3. Drilling & Production Engineering ---
+
+wellpathpy
+
+well-profile
+
+petbox-dca
+
+
+
+# --- 4. Geostatistics & Seismic ---
+
+geostatspy
+
+segyio
+
+
+
+# --- 5. Core Data Science & Visualization ---
+
+numpy
+
+scipy
+
+pandas
+
+scikit-learn
+
+matplotlib
+
+plotly
